@@ -1,0 +1,15 @@
+.container {
+  width: 40%;
+  height: 10em;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  background-color: #3498db;
+}
+
+body {
+  background-image: url("https://images.unsplash.com/photo-1618083707368-b3823daa2726?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
